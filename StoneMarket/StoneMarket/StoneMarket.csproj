@@ -231,9 +231,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\TradeItem\Index.cshtml" />
+    <Content Include="Views\TradeItem\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\TradeItem\" />
+    <Folder Include="Views\TradeItemModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
