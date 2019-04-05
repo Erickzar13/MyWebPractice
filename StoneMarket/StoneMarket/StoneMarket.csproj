@@ -166,6 +166,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\StoneMarketDbContext.cs" />
     <Compile Include="Models\PurchaseModel.cs" />
     <Compile Include="Models\TradeItemModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
